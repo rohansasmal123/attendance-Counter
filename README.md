@@ -1,2 +1,2 @@
 # attendance-Counter
-This program will count number of people present and count them.
+This program will detect number of people present and count them.
